@@ -28,3 +28,9 @@ if keyboard_check(vk_down)
 
 // Logic handling when the player moves off screen
 move_wrap(true, true, 0)
+
+// Shooting Logic
+if mouse_check_button_pressed(mb_left)
+{
+	instance_create_layer(x,y, "Instances", obj_bullet)
+}
