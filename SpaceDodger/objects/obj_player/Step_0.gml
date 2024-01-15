@@ -2,8 +2,6 @@
 
 // You can write your code in this editor
 
-
-
 // Basic Movement
 if keyboard_check(vk_up)
 {
