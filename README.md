@@ -3,5 +3,5 @@
 A collection of small projects I worked on when playing around in the GameMaker engine.
 
 ## Games
-### Space Doadger
+### Space Dodger
 A game about dodging and shooting space rocks made using GameMaker
