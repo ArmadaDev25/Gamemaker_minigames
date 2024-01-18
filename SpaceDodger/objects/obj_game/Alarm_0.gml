@@ -1,4 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_restart();
+ if player_lives >= 1
+ {
+	player_lives -=1;
+	room_restart();
+ } 
+ else
+ {
+	player_lives +=3; // Debug
+ }
+
+
+
+
 
