@@ -36,9 +36,12 @@
   "resources": [
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"pnj_rock","path":"objects/pnj_rock/pnj_rock.yy",},},
+    {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},},
+    {"id":{"name":"glassPanel","path":"sprites/glassPanel/glassPanel.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_rock_big","path":"sprites/spr_rock_big/spr_rock_big.yy",},},
+    {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
