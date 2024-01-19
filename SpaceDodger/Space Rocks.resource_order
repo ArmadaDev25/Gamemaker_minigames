@@ -15,6 +15,7 @@
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_btn_play","order":5,"path":"objects/obj_btn_play/obj_btn_play.yy",},
     {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"pnj_rock","order":3,"path":"objects/pnj_rock/pnj_rock.yy",},
     {"name":"glassPanel","order":4,"path":"sprites/glassPanel/glassPanel.yy",},

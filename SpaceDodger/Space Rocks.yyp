@@ -34,6 +34,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_btn_play","path":"objects/obj_btn_play/obj_btn_play.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"pnj_rock","path":"objects/pnj_rock/pnj_rock.yy",},},
     {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},},
@@ -49,8 +50,8 @@
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
