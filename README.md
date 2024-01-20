@@ -13,3 +13,4 @@ Space Dodger is a game that I built based off the GameMaker Space Rocks Tutorial
 
 ### Additional Features I Added
 - Player Lives - Players can be destoyed 3 additional times in order to give them more chances to score more points. The players remaining lives are indicated at the top left of the screen.
+- Game Over Screen - When the player loses all of their lives, they are presented with a Game Over screen where they can retry playing the game. 
