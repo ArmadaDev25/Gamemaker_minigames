@@ -8,6 +8,7 @@
  else
  {
 	player_lives +=3; // Debug
+	room_goto(rm_gameover);
  }
 
 
