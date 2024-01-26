@@ -15,10 +15,12 @@
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_btn_container","order":7,"path":"objects/obj_btn_container/obj_btn_container.yy",},
     {"name":"obj_btn_play","order":5,"path":"objects/obj_btn_play/obj_btn_play.yy",},
     {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"rm_gameover","order":2,"path":"rooms/rm_gameover/rm_gameover.yy",},
     {"name":"pnj_rock","order":3,"path":"objects/pnj_rock/pnj_rock.yy",},
+    {"name":"metalPanel_blue","order":6,"path":"sprites/metalPanel_blue/metalPanel_blue.yy",},
     {"name":"obj_btn_retry","order":6,"path":"objects/obj_btn_retry/obj_btn_retry.yy",},
     {"name":"glassPanel","order":4,"path":"sprites/glassPanel/glassPanel.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
